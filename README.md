@@ -1,4 +1,5 @@
-# "XML Basic to Advance" ---
+# "XML Basic to Advance"
+--
 This repository showcases solutions to various XML tasks, including:
 
 - XML document creation and validation
